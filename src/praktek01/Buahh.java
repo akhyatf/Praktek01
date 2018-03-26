@@ -10,20 +10,20 @@ package praktek01;
  * @author Mamed
  */
 public class Buahh {
-        string jenis_buah;
-        string nama_buah;
-        string warna_buah;
-        string harga_buah;
-        string bentuk_buah;
+        String jenis_buah;
+        String nama_buah;
+        String warna_buah;
+        String harga_buah;
+        String bentuk_buah;
     
 
 void cetakInfo(){
 
-    system.out.println("jenis_buah  :"+jenis_buah);
-    system.out.println("nama_buah   :"+nama_buah);
-    system.out.println("warna_buah  :"+warna_buah);
-    system.out.println("harga_buah  :"+harga_buah);
-    system.out.println("bentuk_buah :"+bentuk_buah);
+    System.out.println("jenis_buah  :"+jenis_buah);
+    System.out.println("nama_buah   :"+nama_buah);
+    System.out.println("warna_buah  :"+warna_buah);
+    System.out.println("harga_buah  :"+harga_buah);
+    System.out.println("bentuk_buah :"+bentuk_buah);
     }
 }
 

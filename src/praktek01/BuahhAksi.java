@@ -34,7 +34,15 @@ public class BuahhAksi {
        Q.warna_buah="Hijau Tua";
        Q.harga_buah="50.000/biji";
        Q.bentuk_buah="Lonjong";
-      
+       
+       
+       
+       R.cetakInfo();
+       System.out.println();
+       G.cetakInfo();
+       System.out.println();
+       Q.cetakInfo();
+            
     }
         
 }
